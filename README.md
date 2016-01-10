@@ -5,15 +5,20 @@ Toast, Notice, Animation UI
 
 <img src="https://github.com/PFXStudio/PFXSnackBar/blob/master/PFXSnackBar.gif?2" alt="PFXSnackBar Screenshot" width="320" height="568" />
 
-## Contact
 
-PFXStudio
+# PFXStudio
 
-- AppStore : https://itunes.apple.com/kr/developer/ppark/id448017898
-- Homepage : http://pfxstudio.modoo.at
-- Facebook : http://www.facebook.com/PFXStudio
-- Twitter : https://twitter.com/PFXStudio
-- E-mail : pfxstudio21@gamil.com
+Mobile : http://pfxstudio.modoo.at/
+
+Twitter : http://twitter.com/pfxstudio
+
+Facebook : http://facebook.com/pfxstudio
+
+Github : https://github.com/PFXStudio
+
+iOS AppStore : https://itunes.apple.com/us/artist/ppark/id448017898
+
+Google Play : https://play.google.com/store/apps/developer?id=PFXStudio
 
 ## License
 
